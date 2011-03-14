@@ -6,7 +6,7 @@ This repository contains files, code, and stuff to help building the Synfig anim
 Navigation
 ----------
 
-- ./homebrew contains Homebrew formulae for \'etl\', \'synfig\', and \'synfigstudio\'
+- ./homebrew contains Homebrew formulae for \'etl\', \'synfig\', and \'synfigstudio'
 
 Synfig
 -----

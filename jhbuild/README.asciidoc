@@ -1,0 +1,1 @@
+This is currently a work in progress; it is complete. The jhbuild module will bundle a standalone, X11-independent Mac .app of Synfig Studio.

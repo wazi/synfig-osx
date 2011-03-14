@@ -1,0 +1,3 @@
+As of this moment, 'etl' and 'synfig' have been pulled int the main homebrew ( https://github.com/mxcl/homebrew ). Homebrew is the missing Mac OS X package manager: https://mxcl.github.com/homebrew
+
+Currently, Homebrew does not support optional installs or native integrated gtk-osx support. It can build synfigstudio using X11, however.
