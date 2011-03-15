@@ -6,19 +6,22 @@
 
 - 'Voria_Logo.icns' is the app icon for Mac OS X
 - 'Voria_Logo.rsrc.rsrc' is a Mac OS resource icon
+- 'Sif_icon.icns' is the file icon used in Finder.app
+- 'Sif_icon.rsrc.rsrc' is a resource format of the file icon
 
 .svg
 ----
 
-- 'Voria_Logo.svg' is the vector format of the logo, taken from http://upload.wikimedia.org/wikipedia/en/thumb/6/66/Voria_Logo.svg/2000px-Voria_Logo.svg.png
+- 'Voria_Logo.svg' is the vector format of the logo, taken from http://upload.wikimedia.org/wikipedia/en/Voria_Logo.svg/
 
-.ico
+.png
 ----
 
-- favicon_16x16.ico is a www favicon
+- 'Voria_Logo.png' is a square png of the logo
+- 'Sif_icon.png' is the file icon
 
-Synfig Studio
-------------
+Synfig Studio & Sif_icon
+-----------------------
 
 This is just a text file tha has been asigned the Synfig logo
 
