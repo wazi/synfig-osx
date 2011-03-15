@@ -1,0 +1,25 @@
+./icons
+=====
+
+.icns
+-----
+
+- 'Voria_Logo.icns' is the app icon for Mac OS X
+- 'Voria_Logo.rsrc.rsrc' is a Mac OS resource icon
+
+.svg
+----
+
+- 'Voria_Logo.svg' is the vector format of the logo, taken from http://upload.wikimedia.org/wikipedia/en/thumb/6/66/Voria_Logo.svg/2000px-Voria_Logo.svg.png
+
+.ico
+----
+
+- favicon_16x16.ico is a www favicon
+
+Synfig Studio
+------------
+
+This is just a text file tha has been asigned the Synfig logo
+
+Icons optimized and converted with the GIMP and http://iconverticons.com

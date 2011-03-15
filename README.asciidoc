@@ -7,6 +7,10 @@ Navigation
 ----------
 
 - ./homebrew contains Homebrew formulae for \'etl\', \'synfig\', and \'synfigstudio'
+- ./patches contains patches
+- ./icons contains necessary icons in Mac formats
+- ./jhbuild contains jhbuild modules for use with native gtk-osx
+- branch 'gh-pages' contains the resources for the webpage
 
 Synfig
 -----
@@ -17,3 +21,8 @@ Screenshot
 ----------
 
 image:http://download.tuxfamily.org/synfig/wiki/images/5/5d/Synfig_mac_X11.png["Built with X11", link="http://synfig.org/wiki/File:Synfig_mac_X11.png"]
+
+Contributing
+------------
+
+Fork the repository to add a patch, icon, or package for Mac OS X. Then send a pull request.
