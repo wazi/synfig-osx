@@ -19,10 +19,10 @@
 </dependencies>
 </autotools>
 <autotools id="gettext" autogen-sh="configure" autogenargs="--without-emacs --without-included-gettext --without-included-glib --without-included-libcroco --without-included-libxml">
-<branch repo="gnu" href="gettext/gettext-0.18.1.1.tar.gz" version="0.18.1.1.tar.gz" />
+<branch repo="gnu" module="gettext/gettext-0.18.1.1.tar.gz" version="0.18.1.1" />
 </autotools>
 <autotools id="synfig" autogen-sh="configure">
-<branch repo="sourceforge" href="/synfig/synfig/0.62.02/synfig-0.62.02.tar.gz" version="0.62.02" />
+<branch repo="sourceforge" module="synfig/synfig/0.62.02/synfig-0.62.02.tar.gz" version="0.62.02" />
 <dependencies>
 <dep package="etl" />
 <dep package="libsigc++" />
@@ -31,7 +31,7 @@
 </dependencies>
 </autotools>
 <autotools id="synfigstudio" autogen-sh="configure">
-<branch repo="sourceforge" href="synfigstudio/0.62.02/synfigstudio-0.62.02.tar.gz" version="0.62.02" />
+<branch repo="sourceforge" module="synfig/synfigstudio/0.62.02/synfigstudio-0.62.02.tar.gz" version="0.62.02" />
 <dependencies>
 <dep package="etl" />
 <dep package="synfig" />
