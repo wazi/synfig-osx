@@ -1,0 +1,27 @@
+CREDITS
+=======
+
+CREDITS
+-------
+
+The installer first installs homebrew
+These projects and software are built by homebrew:
+- pkg-config
+- glib
+- jpeg
+- libtiff
+- gdk-pixbuf
+- pango
+- jasper
+- atk
+- gettext
+- libsigc++
+- libxml++
+- libdv
+- ffmpeg
+- gtk+
+- etl
+- synfig
+- synfigstudio
+- browser (for detailed installation summaries as HTML in the browser)
+
