@@ -1,0 +1,29 @@
+::selection {
+	background:#5380b7;
+}
+::-moz-selection {
+	background:5380b7;
+}
+body {
+	background:#4371a3;
+	text-align:center;
+	font-family:'AaarghNormal', Arial, sans-serif;
+	color:#fff;
+}
+h1 {
+	color:#fff;
+	font-size:20px;
+}
+hgroup h1 {
+	font-size:35px;
+}
+a.download, a.mirror {
+	background:#5e8dc5;
+	padding:5px;
+	border-radius:3px;
+	color:#fff;
+	text-decoration:none;
+}
+a.download {
+	font-size:30px;
+}
