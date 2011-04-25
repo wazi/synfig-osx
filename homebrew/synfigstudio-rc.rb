@@ -1,6 +1,6 @@
 require 'formula'
 
-class Synfigstudio < Formula
+class SynfigstudioRc < Formula
   url 'http://downloads.sourceforge.net/project/synfig/binaries/linux-binaries/synfigstudio-0.63.00-20110422.rc1.1.x86_64.tar.bz2'
   homepage 'http://synfig.org'
   md5 '4b06f813e497072f01779f554e34c315'
