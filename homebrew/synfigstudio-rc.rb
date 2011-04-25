@@ -14,7 +14,6 @@ class SynfigstudioRc < Formula
 
   def install
     ENV.x11
-    system "autoreconf --install --force"
     system "./configure", "--disable-debug", "--disable-dependency-tracking",
                           "--prefix=#{prefix}"
     inreplace "Makefile" do |s|
