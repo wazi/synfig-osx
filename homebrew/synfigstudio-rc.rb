@@ -3,7 +3,7 @@ require 'formula'
 class SynfigstudioRc < Formula
   url 'https://github.com/downloads/secondplanet/synfig/synfigstudio.tar.gz'
   homepage 'http://synfig.org'
-  md5 '53e8d85881d2d11c5455053c18cc8fba'
+  md5 '72e50ebf14473038b19fa5ea66251d0d'
   version '0.63.00RC1'
 
   depends_on 'etl'
